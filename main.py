@@ -15,3 +15,6 @@ if __name__ == '__main__':
 
 c = 1
 print(c)
+
+
+# Error 16 line, 17 line, 12 line
