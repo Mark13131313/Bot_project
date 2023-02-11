@@ -18,3 +18,6 @@ if __name__ == '__main__':
 #   File "C:\Users\User\Desktop\Bot_project\handlers.py", line 28, in <module>
 #     @dp.callback_query_handlers(text_contains='bunch')
 # TypeError: 'Handler' object is not callable
+
+
+# Control line 12
